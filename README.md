@@ -1,2 +1,2 @@
 # DA-Test-Baghas-Trianto
-For the EDA im using the .ipynb and all the libraries that im use is on requirements.txt. And for data visualization im using PowerBI
+For the exploratory data analysis (EDA), I'm using the .ipynb file, and all the libraries that I'm using are listed in the requirements.txt file. Additionally, for data visualization, I'm using PowerBI.
